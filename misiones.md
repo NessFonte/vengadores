@@ -1,7 +1,11 @@
 # Misiones
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 1. Acabar con el plan de Thanos
+=======
+1. Acabar con los planes de Thanos
+>>>>>>> Stashed changes
 =======
 1. Acabar con los planes de Thanos
 >>>>>>> Stashed changes
